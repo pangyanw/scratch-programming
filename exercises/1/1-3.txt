@@ -1,0 +1,2 @@
+Add a variable for score
+Increment score by 1 when the mouse touch cheese

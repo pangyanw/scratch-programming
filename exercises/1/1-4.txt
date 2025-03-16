@@ -1,0 +1,4 @@
+As a variable
+Initialize with 20 when game starts
+Decrement timer by 1 each second
+When timer gets 0, stop all
