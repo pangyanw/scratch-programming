@@ -1,0 +1,4 @@
+Highlights
+- Import mouse sprite (mouse.sprite3)
+- Hide cat sprite
+- Add actions to mouse
