@@ -1,0 +1,7 @@
+Display “times up” sprite and player’s final score
+Hide timer and score
+
+Add to initialization
+- show timer and score
+- hide final score
+- hide “times up” sprite
