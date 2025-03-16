@@ -1,0 +1,2 @@
+Import cheese sprite
+Interaction with mouse
